@@ -7,7 +7,7 @@ We thank ACLED for answering our questions about this data.
 ## Map:
 ![](/plots/iran_map.png)
 
-# How to run:
+## How to run:
 Note: the raw data to update and replicate the analysis must be downloaded from [ACLED](https://acleddata.com/data-export-tool/), and placed in the "source-data/acled" folder. In addition, the list of downloaded events (available at the same link) must be placed in the "source-data/acled-deleted" folder. 
 
 ## Citation:
